@@ -5,7 +5,7 @@ The current mail template is based on https://github.com/leemunroe/responsive-ht
 (MIT License 2013 Lee Munroe)
 
 # Supported framework
-- dotnet core 1.0
+- .net core 1.0
 - .net framework 4.5
 
 # Install from Nuget
